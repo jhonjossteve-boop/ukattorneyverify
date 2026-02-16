@@ -14,7 +14,7 @@ export const lawyerDatabase: Lawyer[] = [
   {
     code: '56BAC56829',
     name: 'Jamie Anderson',
-    email: 'Jamie5050@gmail.com',
+    email: 'Jamieanderson5050@gmail.com',
     phone: '+44 7902 533135',
     address: 'Studio 3, Stuart House, City Road, Peterborough, PE1 1QF, England',
     specialization: 'Commercial Law',
