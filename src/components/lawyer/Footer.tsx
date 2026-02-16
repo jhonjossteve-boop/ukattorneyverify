@@ -146,8 +146,8 @@ const Footer: React.FC = () => {
               {activeModal === 'Contact Support' && (
                 <>
                   <p>For support inquiries, please reach out through the following channels:</p>
-                  <p>Email: support@lawyerverify.com</p>
-                  <p>Phone: +44 (0) 800 123 4567</p>
+                  <p>Email: lawyerverify@email.com</p>
+                  <p>Phone: +44  745 986 5356</p>
                   <p>Hours: Monday - Friday, 9:00 AM - 5:00 PM GMT</p>
                 </>
               )}
