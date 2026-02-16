@@ -19,8 +19,8 @@ export const lawyerDatabase: Lawyer[] = [
     address: 'Studio 3, Stuart House, City Road, Peterborough, PE1 1QF, England',
     specialization: 'Commercial Law',
     jurisdiction: 'England & Wales',
-    image: 'https://d64gsuwffb70l.cloudfront.net/699385503e8314d2d0830bc8_1771275669605_004f6c28.jpg',
-    verifiedDate: '16 Feb 2026',
+    image: 'https://i.ibb.co/ynPvv6x7/PHOTO-2026-02-14-01-58-05.jpg',
+    verifiedDate: '5 Feb 2022',
   },
   {
     code: 'A7FDE91034',
